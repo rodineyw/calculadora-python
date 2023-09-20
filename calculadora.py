@@ -25,3 +25,6 @@ ____ ____ _    ____ _  _ _    ____ ___  ____ ____ ____
 
 ''')
 
+while True:
+    conta = input('[conta]==-> ')
+    print(eval(conta))
