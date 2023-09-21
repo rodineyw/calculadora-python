@@ -13,10 +13,10 @@ Dividida em dois arquivos:
 
 ## Calculadora - CLI
 
-img: /img/calculadora-cli.png
+<img src="/img/calculadora-cli.png" alt="foto calculadora">
 
 ---
 
 ## Calculadora - GUI
 
-img: /img/calculadora_gui.png
+<img src="/img/calculadora-gui.png" alt="foto calculadora">
