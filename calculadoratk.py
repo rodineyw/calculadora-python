@@ -33,7 +33,7 @@ def limp():
 tela = Tk()
 tela.title('Calculadora')
 tela.geometry('350x500')
-tela.resizzble(True, False)
+tela.resizable(True, False)
 conta = []
 
 
@@ -70,7 +70,7 @@ n9.place(x=170, y=260)
 n0 = Button(tela, text='X', width=8, height=4, command=lambda: num(n0))
 n0.place(x=10, y=340)
 
-ponto = Button(tela, text='.', width=20, height=4, command=lambda: num(ponto))
+ponto = Button(tela, text='.', width=8, height=4, command=lambda: num(ponto))
 ponto.place(x=170, y=340)
 
 result = Button(tela, text='=', width=20, height=4,
