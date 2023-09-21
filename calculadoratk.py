@@ -10,7 +10,7 @@ def num(numero):
         conta.append('/')
         conta_lb['text'] = conta
     else:
-        conmta.append(numero)
+        conta.append(numero)
         conta_lb['text'] = conta
 
 
@@ -37,7 +37,7 @@ tela.resizzble(True, False)
 conta = []
 
 
-conta_lb = label(tela, text='', font=12)
+conta_lb = Label(tela, text='', font=12)
 conta_lb.pack(side=TOP, anchor=E)
 
 n1 = Button(tela, text='1', width=8, height=4, command=lambda: num(n1))
