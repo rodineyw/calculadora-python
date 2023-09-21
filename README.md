@@ -9,7 +9,7 @@
 Dividida em dois arquivos:
 
  - Arquivo principal (calculadora.py)
- - Arquivos com as funções que realizam os calculos (calculos.py)
+ - Arquivos com as funções que realizam os calculos (formulas.py)
 
 ## Calculadora - CLI
 
