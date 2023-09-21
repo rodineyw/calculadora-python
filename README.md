@@ -13,7 +13,7 @@ Dividida em dois arquivos:
 
 ## Calculadora - CLI
 
-img: /img/calculadora.png
+img: /img/calculadora-cli.png
 
 ---
 
