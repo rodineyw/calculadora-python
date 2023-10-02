@@ -2,7 +2,7 @@
 
 Esta é uma calculadora simples implementada em Python usando a biblioteca Tkinter para a interface gráfica.
 
-![Screenshot da Calculadora](screenshot.png)
+![Screenshot da Calculadora](img/calculadora-gui.png)
 
 ## Funcionalidades
 
