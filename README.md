@@ -1,22 +1,45 @@
-# Calculadora
+# Calculadora Simples em Tkinter 🧮
 
----
+Esta é uma calculadora simples implementada em Python usando a biblioteca Tkinter para a interface gráfica.
 
-## Uma calculadora feita em Python.
+![Screenshot da Calculadora](screenshot.png)
 
----
+## Funcionalidades
 
-Dividida em dois arquivos:
+- Realiza operações de adição, subtração, multiplicação e divisão.
+- Suporta operações com números decimais.
+- Permite a utilização de parênteses para realizar operações prioritárias.
+- Exibe o resultado da expressão em tempo real.
+- Limpa a expressão com o botão "C" e exibe "E R R O" em caso de erro na avaliação da expressão.
 
- - Arquivo principal (calculadora.py)
- - Arquivos com as funções que realizam os calculos (formulas.py)
+## Como Usar 🚀
 
-## Calculadora - CLI
+1. Clone o repositório:
 
-<img src="/img/calculadora-cli.png" alt="foto calculadora">
+   ```bash
+   git clone https://github.com/seu-usuario/calculadora-tkinter.git
+   ```
 
----
+2. Navegue até o diretório do projeto:
 
-## Calculadora - GUI
+   ```bash
+   cd calculadora-tkinter
+   ```
 
-<img src="/img/calculadora-gui.png" alt="foto calculadora">
+3. Execute o script:
+
+   ```bash
+   python calculadora.py
+   ```
+
+## Personalização 💅
+
+Você pode personalizar a interface gráfica e o comportamento da calculadora adicionando ou removendo botões e funcionalidades no código-fonte. Sinta-se à vontade para explorar e adaptar o código conforme suas necessidades.
+
+## Autor 👔
+
+Este projeto foi desenvolvido por [Ródiney Wanderson](https://github.com/rodineyw).
+
+## Licença 🪪
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
