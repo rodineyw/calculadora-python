@@ -29,7 +29,7 @@ Esta é uma calculadora simples implementada em Python usando a biblioteca Tkint
 3. Execute o script:
 
    ```bash
-   python calculadora.py
+   calculadora.py
    ```
 
 ## Personalização 💅
@@ -38,7 +38,7 @@ Você pode personalizar a interface gráfica e o comportamento da calculadora ad
 
 ## Autor 👔
 
-Este projeto foi desenvolvido por [Ródiney Wanderson](https://github.com/rodineyw).
+- [Ródiney Wanderson](https://github.com/rodineyw).
 
 ## Licença 🪪
 
